@@ -17,6 +17,7 @@ FEPS 1기 팀 프로젝트로 진행된 **JUNGLE(정글)** 프로젝트를 기�
 
 > 📸 **기획 로고 및 회의 캡처 이미지정**
 >![Image](https://github.com/user-attachments/assets/b2ddb489-dd6b-448d-a3f8-05d7d544e94e)
+> <img src="https://github.com/user-attachments/assets/6eff36fc-d87c-49c0-95a8-60cc1ecfac67" width="600"/>
 
 ![Image](https://github.com/user-attachments/assets/574598a3-1ccf-425c-b4ff-33a6f7d0900d)
 
