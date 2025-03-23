@@ -16,18 +16,25 @@ FEPS 1기 팀 프로젝트로 진행된 **JUNGLE(정글)** 프로젝트를 기�
 기획 단계부터 기능 구조 및 사용자 플로우 설계에 직접 참여하였습니다.
 
 > 📸 **기획 로고 및 회의 캡처 이미지정**
->![Image](https://github.com/user-attachments/assets/b2ddb489-dd6b-448d-a3f8-05d7d544e94e)
-> <img src="https://github.com/user-attachments/assets/6eff36fc-d87c-49c0-95a8-60cc1ecfac67" width="600"/>
-
-![Image](https://github.com/user-attachments/assets/574598a3-1ccf-425c-b4ff-33a6f7d0900d)
-
-![Image](https://github.com/user-attachments/assets/df1d8814-a867-479e-910e-e58b6174be3c)
-
-![Image](https://github.com/user-attachments/assets/7f9438b3-04ee-49c3-bb3a-ca5eb755b2dd)
-
-![Image](https://github.com/user-attachments/assets/6eff36fc-d87c-49c0-95a8-60cc1ecfac67)
 > 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/574598a3-1ccf-425c-b4ff-33a6f7d0900d" width="500"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df1d8814-a867-479e-910e-e58b6174be3c" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f9438b3-04ee-49c3-bb3a-ca5eb755b2dd" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6eff36fc-d87c-49c0-95a8-60cc1ecfac67" width="500"/>
+</p>
+<p align="center">
+  <img src="(https://github.com/user-attachments/assets/b2ddb489-dd6b-448d-a3f8-05d7d544e94e)" width="500"/>
+</p>
 ---
 
 ## 🛠 사용 기술 스택
