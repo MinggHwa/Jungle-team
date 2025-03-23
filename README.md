@@ -1,7 +1,7 @@
-# 🦁 JUNGLE 프로젝트 - 개인 포트폴리오 기반 README
+# 🦁 JUNGLE 프로젝트-팀 프로젝트
 
 ## 📌 프로젝트 개요
-FEPS 1기 팀 프로젝트로 진행된 **JUNGLE(정글)** 프로젝트를 기반으로, 본인의 기술 성장과 기여도를 중심으로 마이그레이션 및 리팩토링을 진행한 포트폴리오용 저장소입니다. 
+FEPS 1기 팀 프로젝트로 진행된 **JUNGLE(정글)** 프로젝트 개인 포트폴리오용 저장소입니다. 
 프론트엔드 주니어 개발자들을 위한 정보 공유 커뮤니티 플랫폼으로, 기술 자료, 면접/코테/스터디 경험 등을 자유롭게 게시하고 소통할 수 있도록 구현하였습니다.
 
 ## 🙋‍♀️ 개인 기여 파트 요약
@@ -51,10 +51,62 @@ FEPS 1기 팀 프로젝트로 진행된 **JUNGLE(정글)** 프로젝트를 기�
 
 ## 🖼️ 데모 이미지 (기여 파트)
 > 아래에는 명화님 기여한 UI 영역의 스크린샷이 들어갈 예정입니다.
+### 공부 - 도서
 
-📌 **공부/도서/QnA 페이지** UI 데모 이미지 삽입 예정  
-📌 **Git 로그인 인증 플로우** 캡처 예정  
-📌 **좋아요 및 북마크 동작 관련 UI 흐름 이미지 삽입 예정**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a132df47-435a-470c-8e11-35bf20d9aaf5" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ec25876-b329-4769-83fc-8f05629d8b4f" width="500"/>
+</p>
+
+### 공부 - QnA
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f63d268-048a-4dd9-b64e-ddc294c13698" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/919567b9-d2e0-437a-b245-b9ab867e18e6" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9dd860de-0cda-4d24-94a7-95012aaff5d6" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20fc9a95-2f07-4d2f-b909-49c2acd3aaf3" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b48ae878-2aef-4a5d-9e55-b041a8bb0509" width="500"/>
+</p>
+
+### 반응형
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d75448f-32d7-4743-a662-3643ae547edd" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd3a14b2-bd97-4836-96dc-3a1e832fac92" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2be592ee-7bc8-49ff-a3e1-f119e1f496b3" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a481cafe-bd01-42b5-b88d-1fac912bb4f3" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f045160b-961d-433e-bd67-1284f4c68ebc" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/278a7af2-fb11-409c-a360-e728b0576a3c" width="500"/>
+</p>
 
 ---
 
